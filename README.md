@@ -6,6 +6,10 @@ List of resources to learn Unity
 
 #[Unity Documentation](http://docs.unity3d.com/ScriptReference/)
 
+#[Downloads](http://unity3d.com/get-unity/download/archive)
+1. [Unity 5](http://unity3d.com/get-unity/download)
+2. [Older Versions](http://unity3d.com/get-unity/download/archive)
+
 #Video Tutorials
 ##Official Tutorials
 
