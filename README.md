@@ -28,8 +28,9 @@ List of resources to learn Unity
 1.[Game Development Walkthrough](https://www.youtube.com/watch?v=4qE8cuHI93c)
 
 #Articles
-1. [Scripting with Coroutines](http://unitypatterns.com/scripting-with-coroutines/)
-2. [Singletons](http://unitypatterns.com/singletons/)
+1. [UnityScript VS Javascript](http://wiki.unity3d.com/index.php?title=UnityScript_versus_JavaScript)
+2. [Scripting with Coroutines](http://unitypatterns.com/scripting-with-coroutines/)
+3. [Singletons](http://unitypatterns.com/singletons/)
 
 #Talks
 ##Unite
