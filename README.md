@@ -27,6 +27,14 @@ List of resources to learn Unity
 #### Videos
 1.[Game Development Walkthrough](https://www.youtube.com/watch?v=4qE8cuHI93c)
 
+##Tutoriais em Português
+####Canal GamesIndie
+1. [Desenvolvimento de Games](https://www.youtube.com/watch?v=-7YkXoPzYww&list=PLB9EE18EE0A788EC4)
+2. [Como Criar Jogos para Android](https://www.youtube.com/watch?v=Uli7RC7kM-8&list=PL7NgKfYIfyx7SUJGDmK0qz_wkMwIJxFll)
+3. [Sistemas de Craft e Inventários](https://www.youtube.com/watch?v=nKa8xhKxf-o&list=PL7NgKfYIfyx7eGs6oHdoKyqHQjnd12fjY)
+4. [Jogos de Corrida Infinita](https://www.youtube.com/watch?v=Pkh-3EGQlFE&list=PL7NgKfYIfyx4ER32hQRSj518Y2lKL66HO)
+5. [Tower Defence](https://www.youtube.com/watch?v=4_hJLoRFEgA&list=PL7NgKfYIfyx7UrSdy-eT7vYZ6LJmc4XMr)
+
 #Articles
 1. [UnityScript VS Javascript](http://wiki.unity3d.com/index.php?title=UnityScript_versus_JavaScript)
 2. [Scripting with Coroutines](http://unitypatterns.com/scripting-with-coroutines/)
