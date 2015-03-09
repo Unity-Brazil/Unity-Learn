@@ -46,3 +46,10 @@ List of resources to learn Unity
 1. [Intro to Editor Scripting](https://www.youtube.com/watch?v=6dnQX0ChOsA)
 2. [Serialization in-depth with Tim Cooper](https://www.youtube.com/watch?v=MmUT0ljrHNc)
 4. [Extend Coroutines](https://www.youtube.com/watch?v=ciDD6Wl-Evk)
+
+#Asset Store
+##Full Projects
+1. [Viking Village](https://www.assetstore.unity3d.com/en/#!/content/29140)
+2. [Survival Shooter](https://www.assetstore.unity3d.com/en/#!/content/21028)
+
+
