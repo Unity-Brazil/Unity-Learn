@@ -10,6 +10,13 @@ List of resources to learn Unity
 1. [Unity 5](http://unity3d.com/get-unity/download)
 2. [Older Versions](http://unity3d.com/get-unity/download/archive)
 
+#Basics
+#### Making Your First Game
+1. [Basics](https://www.youtube.com/watch?v=z06QR-tz1_o)
+2. [Practical Rules - Setting (and Keeping) Production Goals](https://www.youtube.com/watch?v=dHMNeNapL1E)
+3. [Minimum Viable Product - How to Scope Small and Start Right](https://www.youtube.com/watch?v=UvCri1tqIxQ)
+4. [Launching](https://www.youtube.com/watch?v=qxsEimJ_3bM)
+
 #Video Tutorials
 ##[Official Tutorials](http://unity3d.com/learn/tutorials/modules)
 
