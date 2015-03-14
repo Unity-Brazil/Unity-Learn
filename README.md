@@ -47,6 +47,12 @@ List of resources to learn Unity
 2. [Scripting with Coroutines](http://unitypatterns.com/scripting-with-coroutines/)
 3. [Singletons](http://unitypatterns.com/singletons/)
 
+##VR
+###Real-Sence
+1. [Real Sense – Início](http://www.samu42.com/real-sense-inicio/)
+2. [Rastreamento Facial – Base](http://www.samu42.com/rastreamento-facial-base/)
+
+
 #Talks
 ##Unite
 1. [2D Workflows](https://www.youtube.com/watch?v=B1F6fi04qw8)
