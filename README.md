@@ -31,6 +31,9 @@ List of resources to learn Unity
 1. [Unity 5 Beginner](http://unity3d.com/learn/tutorials/modules/beginner/unity-5/unity5-lighting-overview)
 2. [Unity 5 Intermediate](http://unity3d.com/learn/tutorials/modules/intermediate/unity-5/animation-asset-api)
 3. [The Standard Shader](https://www.youtube.com/watch?v=fD_ho_ofY6A)
+4. [Root Motion Authoring](https://www.youtube.com/watch?v=Kn6jxLWA31M)
+5. [Animation Asset API](https://www.youtube.com/watch?v=DyYib-cDfvQ)
+6. [Direct Blend Trees](https://www.youtube.com/watch?v=ihmPDjiF-zg)
 
 #### Videos
 1.[Game Development Walkthrough](https://www.youtube.com/watch?v=4qE8cuHI93c)
