@@ -51,6 +51,9 @@ List of resources to learn Unity
 2. [Scripting with Coroutines](http://unitypatterns.com/scripting-with-coroutines/)
 3. [Singletons](http://unitypatterns.com/singletons/)
 
+####Unity 5
+1. [API CHANGES & AUTOMATIC SCRIPT UPDATING](http://blogs.unity3d.com/2014/06/23/unity5-api-changes-automatic-script-updating/)
+
 ##VR
 ###Real-Sence
 1. [Real Sense – Início](http://www.samu42.com/real-sense-inicio/)
