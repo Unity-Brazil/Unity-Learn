@@ -72,4 +72,5 @@ List of resources to learn Unity
 1. [Viking Village](https://www.assetstore.unity3d.com/en/#!/content/29140)
 2. [Survival Shooter](https://www.assetstore.unity3d.com/en/#!/content/21028)
 
-
+#Contributing
+Feel free to send pull-request with more amazing stuff about Unity, or just ask me to put you on organization
