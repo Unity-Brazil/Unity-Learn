@@ -50,6 +50,7 @@ List of resources to learn Unity
 1. [UnityScript VS Javascript](http://wiki.unity3d.com/index.php?title=UnityScript_versus_JavaScript)
 2. [Scripting with Coroutines](http://unitypatterns.com/scripting-with-coroutines/)
 3. [Singletons](http://unitypatterns.com/singletons/)
+4. [UniRx - Reactive Extensions for Unity](http://www.slideshare.net/neuecc/unirx-reactive-extensions-for-unityen)
 
 ####Unity 5
 1. [API CHANGES & AUTOMATIC SCRIPT UPDATING](http://blogs.unity3d.com/2014/06/23/unity5-api-changes-automatic-script-updating/)
@@ -61,13 +62,22 @@ List of resources to learn Unity
 
 
 #Talks
+1. [Arcadia: Integrating Clojure with Unity3D for Game Dev - Ramsey Nasser and Tims Gardner](https://www.youtube.com/watch?v=tBvNIJzlWEI)
+
 ##Unite
 1. [2D Workflows](https://www.youtube.com/watch?v=B1F6fi04qw8)
 1. [Intro to Editor Scripting](https://www.youtube.com/watch?v=6dnQX0ChOsA)
 2. [Serialization in-depth with Tim Cooper](https://www.youtube.com/watch?v=MmUT0ljrHNc)
 4. [Extend Coroutines](https://www.youtube.com/watch?v=ciDD6Wl-Evk)
 
+#Frameworks
+1. [Arcadia - Closure in Unity](https://github.com/arcadia-unity/Arcadia)
+2. [UniRx - Reactive Extensions for Unity](https://github.com/arcadia-unity/Arcadia)
+
+
 #Asset Store
+1. [UniRx - Reactive Extensions for Unity](http://u3d.as/content/neuecc/uni-rx-reactive-extensions-for-unity/7tT)
+
 ##Full Projects
 1. [Viking Village](https://www.assetstore.unity3d.com/en/#!/content/29140)
 2. [Survival Shooter](https://www.assetstore.unity3d.com/en/#!/content/21028)
