@@ -35,6 +35,7 @@ List of resources to learn Unity
 3. [Survival Sooter](http://unity3d.com/learn/tutorials/projects/survival-shooter)
 4. [Stealth](http://unity3d.com/learn/tutorials/projects/stealth)
 5. [2D Roguelike](http://unity3d.com/learn/tutorials/projects/2d-roguelike)
+6. [2D Game Development Walkthrough](http://unity3d.com/learn/tutorials/modules/beginner/2d/2d-overview)
 
 #### Unity 5
 1. [Unity 5 Beginner](http://unity3d.com/learn/tutorials/modules/beginner/unity-5/unity5-lighting-overview)
@@ -45,8 +46,7 @@ List of resources to learn Unity
 6. [Direct Blend Trees](https://www.youtube.com/watch?v=ihmPDjiF-zg)
 
 #### Videos
-1. [Game Development Walkthrough](https://www.youtube.com/watch?v=4qE8cuHI93c)
-2. [Merry Fragmas: Multiplayer FPS](https://unity3d.com/learn/tutorials/modules/intermediate/live-training-archive/merry-fragmas-multiplayer-fps)
+1. [Merry Fragmas: Multiplayer FPS](https://unity3d.com/learn/tutorials/modules/intermediate/live-training-archive/merry-fragmas-multiplayer-fps)
 
 ##Tutoriais em Português
 ####Canal GamesIndie
