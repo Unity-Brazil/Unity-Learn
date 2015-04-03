@@ -36,6 +36,7 @@ List of resources to learn Unity
 4. [Stealth](http://unity3d.com/learn/tutorials/projects/stealth)
 5. [2D Roguelike](http://unity3d.com/learn/tutorials/projects/2d-roguelike)
 6. [2D Game Development Walkthrough](http://unity3d.com/learn/tutorials/modules/beginner/2d/2d-overview)
+7. [Live Training Playlist](https://www.youtube.com/watch?v=DEumkKjE2YQ&list=PLX2vGYjWbI0QvLHla7C_Z_s3q1Oi461o4)
 
 #### Unity 5
 1. [Unity 5 Beginner](http://unity3d.com/learn/tutorials/modules/beginner/unity-5/unity5-lighting-overview)
