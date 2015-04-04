@@ -61,6 +61,7 @@ List of resources to learn Unity
 1. [UnityScript VS Javascript](http://wiki.unity3d.com/index.php?title=UnityScript_versus_JavaScript)
 2. [Head First into Unity with UnityScript](http://wiki.unity3d.com/index.php/Head_First_into_Unity_with_UnityScript)
 3. [UniRx - Reactive Extensions for Unity](http://www.slideshare.net/neuecc/unirx-reactive-extensions-for-unityen)
+4. [Mastering Unity Project Folder Structure - Version Control Systems](http://unity3d.com/learn/tutorials/modules/beginner/architecture/folders-in-version-control)
 
 ####[Unity Patterns](http://unitypatterns.com/)
 1. [Introduction to Coroutines](http://unitypatterns.com/introduction-to-coroutines/)
