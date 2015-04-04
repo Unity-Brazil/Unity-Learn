@@ -60,10 +60,14 @@ List of resources to learn Unity
 #Articles
 1. [UnityScript VS Javascript](http://wiki.unity3d.com/index.php?title=UnityScript_versus_JavaScript)
 2. [Head First into Unity with UnityScript](http://wiki.unity3d.com/index.php/Head_First_into_Unity_with_UnityScript)
-3. [Scripting with Coroutines](http://unitypatterns.com/scripting-with-coroutines/)
-4. [Singletons](http://unitypatterns.com/singletons/)
-5. [UniRx - Reactive Extensions for Unity](http://www.slideshare.net/neuecc/unirx-reactive-extensions-for-unityen)
+3. [UniRx - Reactive Extensions for Unity](http://www.slideshare.net/neuecc/unirx-reactive-extensions-for-unityen)
 
+####[Unity Patterns](http://unitypatterns.com/)
+1. [Introduction to Coroutines](http://unitypatterns.com/introduction-to-coroutines/)
+2. [Scripting with Coroutines](http://unitypatterns.com/scripting-with-coroutines/)
+3. [Singletons](http://unitypatterns.com/singletons/)
+4. [Customizing the editor part 1 - Cheat Code & Gizmos](http://unitypatterns.com/customizing-the-editor-part-1-cheat-codes-gizmos/)
+5. [Customizing the Editor Part 2 – Menu Items & Undo](http://unitypatterns.com/customizing-the-editor-part-2-menu-items-undo/)
 
 ####Unity 5
 1. [API CHANGES & AUTOMATIC SCRIPT UPDATING](http://blogs.unity3d.com/2014/06/23/unity5-api-changes-automatic-script-updating/)
