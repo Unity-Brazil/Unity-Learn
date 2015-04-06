@@ -95,6 +95,7 @@ List of resources to learn Unity
 
 #[Asset Store](https://www.assetstore.unity3d.com)
 1. [UniRx - Reactive Extensions for Unity](http://u3d.as/content/neuecc/uni-rx-reactive-extensions-for-unity/7tT)
+2. [Smooth.Slinq](https://www.assetstore.unity3d.com/en/#!/content/16249)
 
 ##Full Projects
 1. [Viking Village](https://www.assetstore.unity3d.com/en/#!/content/29140)
