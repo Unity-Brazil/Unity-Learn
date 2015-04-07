@@ -63,6 +63,7 @@ List of resources to learn Unity
 3. [UniRx - Reactive Extensions for Unity](http://www.slideshare.net/neuecc/unirx-reactive-extensions-for-unityen)
 4. [Mastering Unity Project Folder Structure - Version Control Systems](http://unity3d.com/learn/tutorials/modules/beginner/architecture/folders-in-version-control)
 5. [Instructions for using F# with Unity](https://github.com/eriksvedang/FSharp-Unity)
+6. [Unity: Now You're Thinking With Components](http://gamedevelopment.tutsplus.com/articles/unity-now-youre-thinking-with-components--gamedev-12492)
 
 ####[Unity Patterns](http://unitypatterns.com/)
 1. [Introduction to Coroutines](http://unitypatterns.com/introduction-to-coroutines/)
