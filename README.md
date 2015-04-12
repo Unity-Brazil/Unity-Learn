@@ -74,6 +74,8 @@ List of resources to learn Unity
 
 ####Unity 5
 1. [API CHANGES & AUTOMATIC SCRIPT UPDATING](http://blogs.unity3d.com/2014/06/23/unity5-api-changes-automatic-script-updating/)
+2. [SHINY NEW ANIMATION FEATURES IN UNITY 5.0](http://blogs.unity3d.com/2014/06/26/shiny-new-animation-features-in-unity-5-0/)
+3. [State Machine Behaviours](http://unity3d.com/learn/tutorials/modules/beginner/5-pre-order-beta/state-machine-behaviours)
 
 ##VR
 ###Real-Sence
