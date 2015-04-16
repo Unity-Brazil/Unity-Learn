@@ -48,6 +48,8 @@ List of resources to learn Unity
 
 #### Videos
 1. [Merry Fragmas: Multiplayer FPS](https://unity3d.com/learn/tutorials/modules/intermediate/live-training-archive/merry-fragmas-multiplayer-fps)
+2. [MakeHuman 1.0 Alpha 8 Into Unity](http://xenosmashgames.com/makehuman-1-0-alpha-8-unity-3d/)
+3. [Mecanim Tips: Basic Walk Scripting](http://xenosmashgames.com/mecanim-tips-basic-walk-scripting/)
 
 ##Tutoriais em Português
 ####Canal GamesIndie
