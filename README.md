@@ -107,6 +107,7 @@ List of resources to learn Unity
 ##Full Projects
 1. [Viking Village](https://www.assetstore.unity3d.com/en/#!/content/29140)
 2. [Survival Shooter](https://www.assetstore.unity3d.com/en/#!/content/21028)
+3. [République Tech Demo](https://www.assetstore.unity3d.com/en/#!/content/34352?utm_source=unity3d&utm_medium=blog&utm_campaign=ASContent_Camouflaj)
 
 #Contributing
 Feel free to send pull-request with more amazing stuff about Unity, or just ask me to put you on organization
