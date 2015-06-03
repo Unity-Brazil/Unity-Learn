@@ -50,6 +50,7 @@ List of resources to learn Unity
 1. [Merry Fragmas: Multiplayer FPS](https://unity3d.com/learn/tutorials/modules/intermediate/live-training-archive/merry-fragmas-multiplayer-fps)
 2. [MakeHuman 1.0 Alpha 8 Into Unity](http://xenosmashgames.com/makehuman-1-0-alpha-8-unity-3d/)
 3. [Mecanim Tips: Basic Walk Scripting](http://xenosmashgames.com/mecanim-tips-basic-walk-scripting/)
+4. [Unity: ScriptableObject and AssetDatabase](https://www.youtube.com/watch?v=74Ph6y0rR-g)
 
 ##Tutoriais em Português
 ####Canal GamesIndie
@@ -84,9 +85,9 @@ List of resources to learn Unity
 1. [Real Sense – Início](http://www.samu42.com/real-sense-inicio/)
 2. [Rastreamento Facial – Base](http://www.samu42.com/rastreamento-facial-base/)
 
-
 #Talks
 1. [Arcadia: Integrating Clojure with Unity3D for Game Dev - Ramsey Nasser and Tims Gardner](https://www.youtube.com/watch?v=tBvNIJzlWEI)
+
 
 ##Unite
 1. [2D Workflows](https://www.youtube.com/watch?v=B1F6fi04qw8)
