@@ -68,6 +68,7 @@ List of resources to learn Unity
 5. [Instructions for using F# with Unity](https://github.com/eriksvedang/FSharp-Unity)
 6. [Unity: Now You're Thinking With Components](http://gamedevelopment.tutsplus.com/articles/unity-now-youre-thinking-with-components--gamedev-12492)
 
+
 ####[Unity Patterns](http://unitypatterns.com/)
 1. [Introduction to Coroutines](http://unitypatterns.com/introduction-to-coroutines/)
 2. [Scripting with Coroutines](http://unitypatterns.com/scripting-with-coroutines/)
@@ -79,6 +80,7 @@ List of resources to learn Unity
 1. [API CHANGES & AUTOMATIC SCRIPT UPDATING](http://blogs.unity3d.com/2014/06/23/unity5-api-changes-automatic-script-updating/)
 2. [SHINY NEW ANIMATION FEATURES IN UNITY 5.0](http://blogs.unity3d.com/2014/06/26/shiny-new-animation-features-in-unity-5-0/)
 3. [State Machine Behaviours](http://unity3d.com/learn/tutorials/modules/beginner/5-pre-order-beta/state-machine-behaviours)
+4. [Unity 5 - Lighting and Rendering](http://unity3d.com/learn/tutorials/modules/beginner/graphics/lighting-and-rendering)
 
 ##VR
 ###Real-Sence
