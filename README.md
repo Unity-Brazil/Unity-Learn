@@ -82,6 +82,12 @@ List of resources to learn Unity
 3. [State Machine Behaviours](http://unity3d.com/learn/tutorials/modules/beginner/5-pre-order-beta/state-machine-behaviours)
 4. [Unity 5 - Lighting and Rendering](http://unity3d.com/learn/tutorials/modules/beginner/graphics/lighting-and-rendering)
 
+###Unity Shaders
+1. [A gentle introduction to shaders in Unity3D](http://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d/)
+2. [WikiBook: Cg Programming/Unity](https://en.wikibooks.org/wiki/Cg_Programming/Unity)
+3. [Getting Started With Custom Post-Processing Shaders in Unity3D](http://albertshih.blogspot.com.br/2013/06/getting-started-with-custom-post.html)
+4. [DirectCompute tutorial for Unity](http://scrawkblog.com/2014/06/24/directcompute-tutorial-for-unity-introduction/)
+
 ##VR
 ###Real-Sence
 1. [Real Sense – Início](http://www.samu42.com/real-sense-inicio/)
