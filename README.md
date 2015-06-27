@@ -61,7 +61,7 @@ List of resources to learn Unity
 
 # Design Patterns
 - [Singletons](http://unitypatterns.com/singletons/)
-- [Game Programming](http://gameprogrammingpatterns.com/contents.html)
+- [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
 
 # Editor
 - [Customizing the Editor Part 1 - Cheat Code & Gizmos](http://unitypatterns.com/customizing-the-editor-part-1-cheat-codes-gizmos/)
