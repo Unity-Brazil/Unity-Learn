@@ -5,6 +5,7 @@ List of resources to learn Unity
 ##Summary
 - [2D] (#2d)
 - [AI] (#ai)
+- [Alternative Programming Languages] (#alternative-programming-languages)
 - [Android] (#android)
 - [Animations] (#animations)
 - [CSharp] (#csharp)
@@ -18,12 +19,10 @@ List of resources to learn Unity
 - [Introduction to Unity] (#introduction-to-unity)
 - [Lighting] (#lighting)
 - [Physics] (#physics)
-- [ScriptableObjects] (#scriptableobjects)
 - [Serialization] (#serialization)
 - [Shaders] (#shaders)
 - [UI] (#ui)
 - [UnityScript] (#unityscript)
-- [Unsupported Programming Languages] (#unsuported-programming-languages)
 - [Tips and Tricks] (#tips-and-tricks)
 - [Video Tutorials] (#video-tutorials)
 
@@ -33,6 +32,11 @@ List of resources to learn Unity
 
 # AI
 - [Official Pathfinding Tutorials](https://unity3d.com/pt/learn/tutorials/modules/beginner/navigation)
+
+# Alternative Programming Languages
+- [Arcadia - Clojure in Unity](https://github.com/arcadia-unity/Arcadia)
+- [Instructions for using F# with Unity](https://github.com/eriksvedang/FSharp-Unity)
+- [(Talk) Arcadia: Integrating Clojure with Unity3D for Game Dev - Ramsey Nasser and Tims Gardner](https://www.youtube.com/watch?v=tBvNIJzlWEI)
 
 # Android
 - [(portuguese)Como Criar Jogos para Android](https://www.youtube.com/watch?v=Uli7RC7kM-8&list=PL7NgKfYIfyx7SUJGDmK0qz_wkMwIJxFll)
@@ -102,10 +106,8 @@ List of resources to learn Unity
 - [The Unity 5 Standard Shader](https://www.youtube.com/watch?v=fD_ho_ofY6A)
 - [WikiBook: Cg Programming/Unity](https://en.wikibooks.org/wiki/Cg_Programming/Unity)
 
-# ScriptableObjects
-- [Unity: ScriptableObject and AssetDatabase](https://www.youtube.com/watch?v=74Ph6y0rR-g)
-
 # Serialization
+- [Unity: ScriptableObject and AssetDatabase](https://www.youtube.com/watch?v=74Ph6y0rR-g)
 - [(Unity Talk) Serialization in-depth with Tim Cooper](https://www.youtube.com/watch?v=MmUT0ljrHNc)
 
 # Tips and Tricks
@@ -119,11 +121,6 @@ List of resources to learn Unity
 # UnityScript
 - [Head First into Unity with UnityScript](http://wiki.unity3d.com/index.php/Head_First_into_Unity_with_UnityScript)
 - [UnityScript vs. Javascript](http://wiki.unity3d.com/index.php?title=UnityScript_versus_JavaScript)
-
-# Unsupported Programming Languages
-- [Arcadia - Clojure in Unity](https://github.com/arcadia-unity/Arcadia)
-- [Instructions for using F# with Unity](https://github.com/eriksvedang/FSharp-Unity)
-- [(Talk) Arcadia: Integrating Clojure with Unity3D for Game Dev - Ramsey Nasser and Tims Gardner](https://www.youtube.com/watch?v=tBvNIJzlWEI)
 
 # Version Control
 - [Mastering Unity Project Folder Structure - Version Control Systems](http://unity3d.com/learn/tutorials/modules/beginner/architecture/folders-in-version-control)
