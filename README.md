@@ -8,7 +8,7 @@ List of resources to learn Unity
 [Design Patterns] (#desing-patterns)
 [Introduction to Unity] (#introduction-to-unity)
 [Shaders] (#shaders)
-[UnityScript] (#unityscript
+[UnityScript] (#unityscript)
 
 # CSharp
 
