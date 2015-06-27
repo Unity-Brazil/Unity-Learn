@@ -3,12 +3,12 @@ List of resources to learn Unity
 
 
 ##Summary
-[CSharp] (#csharp)
-[Coroutines] (#coroutines)
-[Design Patterns] (#desing-patterns)
-[Introduction to Unity] (#introduction-to-unity)
-[Shaders] (#shaders)
-[UnityScript] (#unityscript)
+- [CSharp] (#csharp)
+- [Coroutines] (#coroutines)
+- [Design Patterns] (#design-patterns)
+- [Introduction to Unity] (#introduction-to-unity)
+- [Shaders] (#shaders)
+- [UnityScript] (#unityscript)
 
 # CSharp
 
