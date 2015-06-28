@@ -123,7 +123,10 @@ List of resources to learn Unity
 - [UnityScript vs. Javascript](http://wiki.unity3d.com/index.php?title=UnityScript_versus_JavaScript)
 
 # Version Control
+- [Git + Unity](http://www.yellosoft.us/git-unity)
+- [Git for Unity developers](http://www.gamasutra.com/blogs/AlistairDoulin/20150304/237814/Git_for_Unity_Developers.php)
 - [Mastering Unity Project Folder Structure - Version Control Systems](http://unity3d.com/learn/tutorials/modules/beginner/architecture/folders-in-version-control)
+- [Mercurial at Unity](http://natoshabard.com/post/122632480712/mercurial-at-unity)
 
 # Video Tutorials
 - [2D Roguelike](http://unity3d.com/learn/tutorials/projects/2d-roguelike)
