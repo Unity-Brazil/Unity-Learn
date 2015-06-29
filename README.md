@@ -34,9 +34,11 @@ List of resources to learn Unity
 - [Official Pathfinding Tutorials](https://unity3d.com/pt/learn/tutorials/modules/beginner/navigation)
 
 # Alternative Programming Languages
-- [Arcadia - Clojure in Unity](https://github.com/arcadia-unity/Arcadia)
-- [Instructions for using F# with Unity](https://github.com/eriksvedang/FSharp-Unity)
+- [Clojure - Arcadia](https://github.com/arcadia-unity/Arcadia)
 - [(Talk) Arcadia: Integrating Clojure with Unity3D for Game Dev - Ramsey Nasser and Tims Gardner](https://www.youtube.com/watch?v=tBvNIJzlWEI)
+- [F# - Instructions for using F# with Unity](https://github.com/eriksvedang/FSharp-Unity)
+- [Lua - Unity Lua Interface Library](https://www.assetstore.unity3d.com/en/#!/content/391)
+- [Lua - UniLua](https://github.com/xebecnan/UniLua)
 
 # Android
 - [(portuguese)Como Criar Jogos para Android](https://www.youtube.com/watch?v=Uli7RC7kM-8&list=PL7NgKfYIfyx7SUJGDmK0qz_wkMwIJxFll)
