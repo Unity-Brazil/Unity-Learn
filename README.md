@@ -111,6 +111,7 @@ List of resources to learn Unity
 - [(Unity Talk) Serialization in-depth with Tim Cooper](https://www.youtube.com/watch?v=MmUT0ljrHNc)
 
 # Tips and Tricks
+- [50 Tips for Working with Unity (Best Practices)](http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/)
 - [Editor Tips](http://imgur.com/a/2w7zd)
 - [Unity Tips](http://unity3d.com/learn-topic/tips)
 
@@ -127,6 +128,7 @@ List of resources to learn Unity
 - [Git for Unity developers](http://www.gamasutra.com/blogs/AlistairDoulin/20150304/237814/Git_for_Unity_Developers.php)
 - [Mastering Unity Project Folder Structure - Version Control Systems](http://unity3d.com/learn/tutorials/modules/beginner/architecture/folders-in-version-control)
 - [Mercurial at Unity](http://natoshabard.com/post/122632480712/mercurial-at-unity)
+- [Using Version Control with Unity3D](http://code.tutsplus.com/tutorials/using-version-control-with-unity3d--mobile-12304)
 
 # Video Tutorials
 - [2D Roguelike](http://unity3d.com/learn/tutorials/projects/2d-roguelike)
