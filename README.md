@@ -37,6 +37,7 @@ List of resources to learn Unity
 - [Clojure - Arcadia](https://github.com/arcadia-unity/Arcadia)
 - [(Talk) Arcadia: Integrating Clojure with Unity3D for Game Dev - Ramsey Nasser and Tims Gardner](https://www.youtube.com/watch?v=tBvNIJzlWEI)
 - [F# - Instructions for using F# with Unity](https://github.com/eriksvedang/FSharp-Unity)
+- [Python - Unity Python Editor](https://github.com/cesardeazevedo/Unity3D-Python-Editor)
 - [Lua - Unity Lua Interface Library](https://www.assetstore.unity3d.com/en/#!/content/391)
 - [Lua - UniLua](https://github.com/xebecnan/UniLua)
 
