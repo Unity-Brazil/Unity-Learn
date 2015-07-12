@@ -24,6 +24,7 @@ List of resources to learn Unity
 - [UI] (#ui)
 - [UnityScript] (#unityscript)
 - [Tips and Tricks] (#tips-and-tricks)
+- [Version Control] (#version-control)
 - [Video Tutorials] (#video-tutorials)
 
 # 2D
