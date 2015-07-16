@@ -117,7 +117,8 @@ List of resources to learn Unity
 # Tips and Tricks
 - [50 Tips for Working with Unity (Best Practices)](http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/)
 - [Editor Tips](http://imgur.com/a/2w7zd)
-- [Unity Tips](http://unity3d.com/learn-topic/tips)
+- [Official Unity Tips](http://unity3d.com/learn-topic/tips)
+- [Unity Tip](http://unitytip.com/)
 
 # UI
 - [Official UI Tutorials](https://unity3d.com/pt/learn/tutorials/modules/beginner/ui)
