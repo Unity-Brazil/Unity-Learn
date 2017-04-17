@@ -2,7 +2,7 @@
 List of resources to learn Unity
 
 
-##Summary
+## Summary
 - [2D] (#2d)
 - [AI] (#ai)
 - [Alternative Programming Languages] (#alternative-programming-languages)
@@ -150,5 +150,5 @@ List of resources to learn Unity
 
 
 
-#Contributing
+# Contributing
 Feel free to send a pull-request with more amazing stuff about Unity
